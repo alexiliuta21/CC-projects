@@ -1,4 +1,4 @@
-# CC-projects
+# Wanderlust
 
 Wanderlust 
 
