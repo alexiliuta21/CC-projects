@@ -1,6 +1,5 @@
 # Wanderlust
 
-Wanderlust 
 
 I am using the Foursquare API and OpenWeather API to create a travel website.
 
